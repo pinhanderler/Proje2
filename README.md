@@ -1,2 +1,2 @@
-Telegram Botu ile iglili döküman.
-# TODO
+#Telegram Botu ile iglili döküman
+TODO
