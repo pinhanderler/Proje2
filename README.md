@@ -1,9 +1,6 @@
 AsyncWorldEdit
 ==============
-The plugin was split into free and premium versions. 
-Want more features? Want more frequent updates? Go to: [AsyncWorldEdit - Premium](https://www.spigotmc.org/resources/asyncworldedit-premium.9661/)
 
-Please read the project license.
 
 Async WorldEdit - Edit millions of blocks without lag!
 
